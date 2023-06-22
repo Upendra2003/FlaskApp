@@ -9,7 +9,6 @@ The News Website is a web application that provides users with the latest news a
 ## Features
 
 - **News Articles**: Browse through a collection of news articles from different sources. Each article is displayed with a title, description, source, and publication date. Clicking on an article opens a detailed view with the full content.
-- 
 - **User Authentication**: Register an account or log in to access additional features such as saving favorite articles and personalized news recommendations.
 
 ## Reference Images
