@@ -66,6 +66,6 @@ If you have any questions or need further assistance, please feel
  free to contact us:
 
 - Email: [upendrakarimi2003@gmail.com](mailto:upendrakarimi2003@gmail.com)
-- GitHub: [[github.com/Upendra2003](https://github.com/Upendra2003)](https://github.com/Upendra2003)
+- GitHub: [github.com/Upendra2003](https://github.com/Upendra2003)
 
 Thank you for visiting the News Website repository!
